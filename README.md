@@ -1,5 +1,5 @@
 # UDPRN.com
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -33,5 +33,3 @@
             <li>Alborze</li>
         </ul>
         <h1>don't forget to check the UDPRN National Archive when it comes out!</h1>
-  </body>
-  </html>
