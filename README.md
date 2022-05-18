@@ -12,12 +12,12 @@
       <li>Supreme Leader=Nutriga</li>
       <li>Supreme Head=Muqtader</li>
       <li>Higher Head=Koshiro</li>
-      <li>Lower Head= Muqhtahead</li>
+      <li>Lower Head= Mujtahed</li>
     </ul>
     <h1>Higher House of The UDPRN</h1>
     <ul>
       <li>Nick</li>
-      <li>Khan</li>
+      <li>Kaan</li>
       <h1>Lower House</h1>
       <ul>
        <li>Thomas </li>
@@ -25,10 +25,17 @@
     </ul>
         <h1>UDPRN MIlitary Generals</h1>
         <ul>
-            <li>Muqhtahead</li>
+            <li>Mujtahed</li>
             <li>Julian</li>
             <li>Andrew</li>
-            <li>Alborze</li>
+            <li>Alborz</li>
         </ul>
+        <h1>UDPRN SF
+            <li>
+                <ul>Muqtader</ul>
+                <ul>Koshiro</ul>
+                <ul>Noah</ul>
+            <li>
+        </h1>
         <img src="https://3.files.edl.io/ebcc/18/08/27/142035-a1552f93-b373-4118-a6e8-daa145959ccf.jpg">
         <h1>don't forget to check the UDPRN National Archive when it comes out!</h1>
